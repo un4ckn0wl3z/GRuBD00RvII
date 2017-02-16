@@ -1,5 +1,7 @@
-https://zenodo.org/badge/51640313.svg
+
 # GRuBD00RvII
+[![DOI](https://zenodo.org/badge/51640313.svg)](https://zenodo.org/badge/latestdoi/51640313)
+
 
 MIT License
 
